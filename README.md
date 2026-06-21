@@ -1,2 +1,14 @@
 # bsportsrank-archive
-HTML page archive and documentation
+
+页面文件整理目录
+
+这个目录用于承载静态页面文件，内容会随发布任务持续补充。
+
+## 发布目录
+
+- HTML 文件保存在当前仓库
+- GitHub Pages 可用于公开访问
+
+## 更新方式
+
+自动发布任务会继续维护本仓库，文件变化以提交记录为准。
